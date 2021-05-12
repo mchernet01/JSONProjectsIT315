@@ -5,36 +5,41 @@
              "name": "Divergent", 
              "pages": 487,
              "author": "Veronica Roth",
-             "genre": "Dystopian"
+             "genre": "Dystopian",
+	     "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/divergent.jpeg"
          },
          {
              "name": "Harry Potter", 
              "pages": 223,
              "author": "JK Rowling",
-             "genre": "Adventure"
+             "genre": "Adventure",
+	     "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/Harrypotter.jpeg"
 
          },
          {
              "name": "Pride And Prejudice", 
              "pages": 408,
              "author": "Jane Austin",
-             "genre": "Classic"
+             "genre": "Classic",
+             "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/Prideandprejudice.jpeg"
 
          },
          {
              "name": "Hunger Games", 
              "pages": 374,
              "author": "Suzanne Collins",
-             "genre": "Dystopian"
+             "genre": "Dystopian",
+	     "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/hungergames.jpeg"
 
          },
          {
              "name": "Resurrection", 
              "pages": 483,
              "author": "Leo Tolstoy",
-             "genre": "Historical Fiction"
+             "genre": "Historical Fiction",
+             "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/resurrection.jpg"
 
-         },
+         }
 
 	]
 }
