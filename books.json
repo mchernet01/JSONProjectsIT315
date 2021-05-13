@@ -6,14 +6,16 @@
              "pages": 487,
              "author": "Veronica Roth",
              "genre": "Dystopian",
-	     "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/divergent.jpeg"
+	     "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/divergent.jpeg",
+             "description": "Divergent is the debut novel of American novelist Veronica Roth, published by Harper Collins Children's Books in 2011. The novel is the first of the Divergent trilogy, a series of young adult dystopian novels set in a Divergent Universe."
          },
          {
              "name": "Harry Potter", 
              "pages": 223,
              "author": "JK Rowling",
              "genre": "Adventure",
-	     "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/Harrypotter.jpeg"
+	     "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/Harrypotter.jpeg",
+		 "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry."
 
          },
          {
@@ -21,7 +23,8 @@
              "pages": 408,
              "author": "Jane Austin",
              "genre": "Classic",
-             "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/Prideandprejudice.jpeg"
+             "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/Prideandprejudice.jpeg",
+		 "description": "Pride and Prejudice is a novel of manners by Jane Austen, first published in 1813. The story follows the main character, Elizabeth Bennet, as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of the British Regency."
 
          },
          {
@@ -29,7 +32,8 @@
              "pages": 374,
              "author": "Suzanne Collins",
              "genre": "Dystopian",
-	     "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/hungergames.jpeg"
+	     "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/hungergames.jpeg",
+		 "description": "The Hunger Games is a series of young adult dystopian novels written by the American author Suzanne Collins. The series is set in the Hunger Games universe, with the first three novels being a trilogy following teenage protagonist, Katniss Everdeen."
 
          },
          {
@@ -37,7 +41,8 @@
              "pages": 483,
              "author": "Leo Tolstoy",
              "genre": "Historical Fiction",
-             "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/resurrection.jpg"
+             "image_url": "https://raw.githubusercontent.com/mchernet01/JSONProjectsIT315/master/resurrection.jpg",
+		 "description": "Resurrection (1899) is the last of Tolstoy's major novels. It tells the story of a nobleman's attempt to redeem the suffering his youthful philandering inflicted on a peasant girl who ends up a prisoner in Siberia."
 
          }
 
